@@ -1,0 +1,18 @@
+/*all*/
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Kumbh Sans';
+	font-weight: 400px, 700px;
+	width: 1440px;
+	font-size: 30px;
+}
+
+.container{
+	background-image: url(bg-pattern-bottom.svg);
+}
+
+
+/*---------------------------------------------------*/
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
